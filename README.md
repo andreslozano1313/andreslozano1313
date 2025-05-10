@@ -1,6 +1,6 @@
 # 👩‍💻 Andres Felipe Lozano Arboleda
 
-[![GitHub](https://img.shields.io/badge/GitHub-LillianaU-181717?logo=github&style=flat-square)](https://github.com/andreslozano1313/andreslozano1313)
+[![GitHub](https://img.shields.io/badge/GitHub-andreslozano1313-181717?logo=github&style=flat-square)](https://github.com/andreslozano1313/andreslozano1313)
 
 ---
 
