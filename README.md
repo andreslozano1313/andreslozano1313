@@ -6,7 +6,7 @@
 
 ## 🌟 Sobre mí
 
-✨ ¡Hola! Soy **Andres Felipe Lozano **, apasionada por el **desarrollo fullstack **, la **Analitica de datos** y la creación de soluciones tecnologicas con la innovación.  
+✨ ¡Hola! Soy **Andres Felipe Lozano **, apasionado por el **desarrollo fullstack **, la **Analitica de datos** y la creación de soluciones tecnologicas con la innovación.  
 💻 Como **Administrador Tecnologico**, aplico buenas prácticas de **programación orientada a objetos** y promuevo el **código limpio y estructurado**.
 
 ---
